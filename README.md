@@ -35,3 +35,12 @@ Basic neural network
 ## 7. Deep learning
 
 For example, recurrent neural network or recursive neural network.
+
+## 8. Entity extraction
+
+文本中的实体抽取可以转换为文本分类问题，就是通过word window classification, word window中间词的标签就是分类的结果，比如B, I, O.
+
+[entity extraction](https://github.com/arfu2016/nlp/tree/master/nlp_models/entity)
+
+
+
